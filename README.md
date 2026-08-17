@@ -189,11 +189,3 @@ npm run build
 
 MIT License
 
-## 联系方式
-
-- 邮箱: support@resumeai.pro
-- 电话: 400-123-4567
-- 地址: 北京市朝阳区科技园区
-
-
-[DuMate AI生成]
